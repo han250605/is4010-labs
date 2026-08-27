@@ -1,6 +1,6 @@
 # Lab 01 setup record
 
-- GitHub username: `Han Nguyen`
+- GitHub username: `han250605`
 - Fork URL: `https://github.com/han250605/is4010-labs`
 - Local clone verified: `yes`
 - uv version: `0.12.6`
